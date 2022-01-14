@@ -1,0 +1,3 @@
+Django==4.0.1
+ml-project-template==0.0.16
+opencv-python==4.5.5.62
